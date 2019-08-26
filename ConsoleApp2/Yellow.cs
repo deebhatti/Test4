@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp2
 {
-    class Program
+    class Yellow
     {
-        static void Main(string[] args)
+        public void day()
         {
-            Console.WriteLine("Something for today");
+            Console.WriteLine("Today is Monday");
+            Console.WriteLine("Some more lines");
         }
     }
 }

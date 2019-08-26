@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp2
 {
-    class Program
+    class Black
     {
-        static void Main(string[] args)
+        public void color()
         {
-            Console.WriteLine("Something for today");
+            Console.WriteLine("Black is a color");
         }
     }
 }
